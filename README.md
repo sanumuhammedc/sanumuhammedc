@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanumuhammedc
 - 👀 I’m interested in Web and Blockchain development
-- 🌱 I’m currently learning more about web3
+- 🌱 I’m currently learning about web3
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 Reach me @sanumuhammedc
 
