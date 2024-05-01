@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sanumuhammedc
 - 👀 I’m interested in Web and Blockchain development
+- 👀 Experience in MERN Stack, Django, MySQL and PostgreSQL
 - 🌱 I’m currently learning about web3
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 Reach me @sanumuhammedc
